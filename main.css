@@ -1,0 +1,15 @@
+
+:root{
+--font-title: 'roboto', sans-serif;
+--font-subtitle: 'mukta', sans-serif;
+--color-primary:#FF44F5;
+    --color-secondary:#036156;
+    --size-xl:'30px';
+    --size-s:'10px';
+    --size-m:'20px';
+    --color-active:orange;
+}
+.title{
+    font-family: var(--font-subtitle);
+    color: var(--color-primary);
+}
